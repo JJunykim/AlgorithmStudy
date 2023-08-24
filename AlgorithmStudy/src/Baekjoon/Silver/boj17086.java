@@ -7,6 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//2023.08.25
 //실버2 아기 상어2
 //BFS 사용
 public class boj17086 {
@@ -37,7 +38,6 @@ public class boj17086 {
 				if(map[i][j] == 0) {
 					int temp = BFS(i, j);
 					if(temp > ans) ans = temp;
-					
 				}
 			}
 		}
