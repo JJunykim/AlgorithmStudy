@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-//삼성 SW 역량테스트 2023 하반기 오후 1번 문제  23:27 - 01:40
+//삼성 SW 역량테스트 2023 상반기 오후 1번 문제  23:27 - 01:40
 //메이즈 러너
 //Matrix 일부 정사각형을 90회전 시키는 방법. 원점 기준으로 돌리고 -> 좌표 이동
 public class MazeRunner {
